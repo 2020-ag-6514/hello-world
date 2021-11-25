@@ -6,7 +6,11 @@ namespace OOPExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x;
+            x = 99;
+            Console.WriteLine("Value of x = x+2");
+            Console.ReadLine();
+
         }
     }
 }
