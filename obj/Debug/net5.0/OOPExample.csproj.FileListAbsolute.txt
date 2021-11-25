@@ -1,0 +1,16 @@
+C:\Users\Dhanak Computer\OOPExample\bin\Debug\net5.0\OOPExample.exe
+C:\Users\Dhanak Computer\OOPExample\bin\Debug\net5.0\OOPExample.deps.json
+C:\Users\Dhanak Computer\OOPExample\bin\Debug\net5.0\OOPExample.runtimeconfig.json
+C:\Users\Dhanak Computer\OOPExample\bin\Debug\net5.0\OOPExample.runtimeconfig.dev.json
+C:\Users\Dhanak Computer\OOPExample\bin\Debug\net5.0\OOPExample.dll
+C:\Users\Dhanak Computer\OOPExample\bin\Debug\net5.0\ref\OOPExample.dll
+C:\Users\Dhanak Computer\OOPExample\bin\Debug\net5.0\OOPExample.pdb
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\OOPExample.csproj.AssemblyReference.cache
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\OOPExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\OOPExample.AssemblyInfoInputs.cache
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\OOPExample.AssemblyInfo.cs
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\OOPExample.csproj.CoreCompileInputs.cache
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\OOPExample.dll
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\ref\OOPExample.dll
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\OOPExample.pdb
+C:\Users\Dhanak Computer\OOPExample\obj\Debug\net5.0\OOPExample.genruntimeconfig.cache
