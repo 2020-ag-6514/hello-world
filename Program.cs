@@ -6,10 +6,9 @@ namespace OOPExample
     {
         static void Main(string[] args)
         {
-            int x;
-            x = 99;
-            Console.WriteLine("Value of x = x+2");
-            Console.ReadLine();
+           const float PI = 3.142F;
+           Console.WriteLine("Value of PI =" + PI);
+           Console.ReadLine();
 
         }
     }
